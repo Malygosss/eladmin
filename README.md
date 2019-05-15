@@ -17,34 +17,31 @@
 #### 活动推广
 
 <table border="0">
-	<tbody>
-		<tr>
-			<td align="left" valign="middle">
-        <a href="https://cloud.tencent.com/redirect.php?redirect=1039&cps_key=c564f58c50c7b4f8ebc123e605264289&from=console" target="_blank">
-				  <img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/470_250_2.jpg
-">
-        </a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://cloud.tencent.com/redirect.php?redirect=1001&cps_key=c564f58c50c7b4f8ebc123e605264289&from=console" target="_blank">
-					<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/%E4%BA%91%E4%BA%A7%E5%93%81%E7%89%B9%E6%83%A03%E6%8A%98%E8%B5%B7345x200-02b8a4e7f6f785612b8b2a278cb0b7aed251d91d.jpg
-">
-				</a>
-			</td>
-<td align="center" valign="middle">
-				<a href="https://www.aliyun.com/acts/hi-group-buying?userCode=bynb4qf4" target="_blank">
-					<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/TB1MT0aVVzqK1RjSZFvXXcB7VXa-252-160.jpg">
-				</a>
-			</td>
+<tbody>
+<tr>
+	<td align="left" valign="middle">
+		<a href="https://cloud.tencent.com/redirect.php?redirect=1039&cps_key=c564f58c50c7b4f8ebc123e605264289&from=console" target="_blank">
+		<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/470_250_2.jpg ">
+		</a>
+	</td>
+	<td align="center" valign="middle">
+		<a href="https://cloud.tencent.com/redirect.php?redirect=1001&cps_key=c564f58c50c7b4f8ebc123e605264289&from=console" target="_blank">
+		<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/%E4%BA%91%E4%BA%A7%E5%93%81%E7%89%B9%E6%83%A03%E6%8A%98%E8%B5%B7345x200-02b8a4e7f6f785612b8b2a278cb0b7aed251d91d.jpg ">
+		</a>
+	</td>
+	<td align="center" valign="middle">
+		<a href="https://www.aliyun.com/acts/hi-group-buying?userCode=bynb4qf4" target="_blank">
+		<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/TB1MT0aVVzqK1RjSZFvXXcB7VXa-252-160.jpg">
+		</a>
+	</td>
 </td>
 <td align="center" valign="middle">
-				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=bynb4qf4" target="_blank">
-					<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/fa.jpg
-">
-				</a>
-			</td>
-		</tr>
-	</tbody>
+	<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=bynb4qf4" target="_blank">
+	<img height="120" src="https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/fa.jpg ">
+	</a>
+</td>
+</tr>
+</tbody>
 </table>
 
 ##### 用户账号密码
